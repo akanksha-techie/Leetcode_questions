@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1672-richest-customer-wealth) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
