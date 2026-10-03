@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1672-richest-customer-wealth) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
 ## Bubble Sort
 |  |
