@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3876-construct-uniform-parity-array-ii) |
