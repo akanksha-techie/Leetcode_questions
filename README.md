@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0007-reverse-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3524-find-x-value-of-array-i) |
