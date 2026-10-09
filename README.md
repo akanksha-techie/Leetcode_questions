@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0007-reverse-integer) |
+| [0319-bulb-switcher](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0319-bulb-switcher) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0024-swap-nodes-in-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
