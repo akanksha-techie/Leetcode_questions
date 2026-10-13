@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3524-find-x-value-of-array-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
