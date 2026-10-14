@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
 ## Linked List
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
