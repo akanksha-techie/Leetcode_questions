@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0141-linked-list-cycle) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
 ## Recursion
 |  |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
