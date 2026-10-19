@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3524-find-x-value-of-array-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
