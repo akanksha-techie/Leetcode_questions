@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
