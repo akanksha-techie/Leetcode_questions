@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0066-plus-one) |
 | [0319-bulb-switcher](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0319-bulb-switcher) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
