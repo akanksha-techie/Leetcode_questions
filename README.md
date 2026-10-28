@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0319-bulb-switcher) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -252,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
