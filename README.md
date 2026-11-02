@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0319-bulb-switcher) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
