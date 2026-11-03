@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 ## Number Theory
 |  |
