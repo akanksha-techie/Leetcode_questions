@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akanksha-techie/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 ## Number Theory
 |  |
 | ------- |
