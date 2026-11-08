@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
