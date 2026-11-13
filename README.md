@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akanksha-techie/Leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akanksha-techie/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/akanksha-techie/Leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
